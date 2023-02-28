@@ -1,2 +1,2 @@
 # Finance-Calculator
-A program that allows the user to access two different financial calculators: an investment calculator and a home loan repayment calculator.
+The objective of this task is to create a program in Python that allows the user to choose between two financial calculators: an investment calculator and a home loan repayment calculator. The program should prompt the user to enter the necessary inputs for the chosen calculator and output the result. The investment calculator should offer the option of calculating either simple or compound interest, and the home loan repayment calculator should calculate the monthly repayment amount. The program should also handle invalid inputs and display appropriate error messages.
